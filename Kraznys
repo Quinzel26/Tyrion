@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title>myTunes</title>
+    <link rel="stylesheet"
+    type="text/css"
+     href="aegon.css"/>
+
+  </head>
+  <body>
+
+    <div id="Balon">
+      <header>
+        <nav class="GreyJoy">
+          <ul class="Asha">
+
+            <li id="renly">
+              <a href="#">myTunes</a>
+            </li>
+
+            <li id="maven">
+              <a href="#">Overview</a>
+            </li>
+
+            <li id="gendry">
+              <a href="#">Music</a>
+            </li>
+
+            <li id="Egret">
+              <a href="#">Video</a>
+            </li>
+
+            <li id="Mance">
+              <a href="#">GiftCards</a>
+            </li>
+
+          </ul>
+        </nav>
+      </header>
+
+    <div class="Euron">
+      <h1>myTunes</h1>
+
+      <h2>Your music, movies, and TV shows take center stage.</h2>
+
+<p class="Hair">
+
+</p>
+
+    </div>
+    </div>
+
+    <!--Music Section-->
+
+  <section id="Lyon" class="Alps">
+  <div class="Frey">
+    <h2 class="Lyonhead">
+<i class="fas fa-music">
+
+</i>
+Music
+    </h2>
+
+    <h3>45 million songs. Zero ads.</h3>
+
+    <p class="lead">
+Stream over 45 million songs, ad-free. Or download albums and tracks to listen to offline.
+All the music in your personal myTunes library - no matter where it came from - lives
+right alongside the Orange music catalog. Start your free three-month trial with no commitment,
+and cancel anytime.
+    </p>
+
+    <a class="Bod Grod" href="#">Start Your Trial Now</a>
+
+    <p class="flames">
+Orange music is available in myTunes,and for iOS and Android devices.
+    </p>
+<img src="music.png" alt="">
+
+  </div>
+  </section>
+
+
+<section id="video" class="audio">
+  <div class="Maersk">
+    <h3>
+      The movie and TV collection you always wished for. Granted
+    </h3>
+
+    <p class="lead">
+With over 100,000 movies and TV shows to choose from,there's always something
+great to watch on myTunes and if you watch on Orange TV 4k,you'll be to enjoy a tremendous collectiom
+of your favorite content in 4k HDR. So get ready to enjoy episodes of your favoriteTV shows
+or hit movies you've been waiting to see - anytime,anywhere. Just tap to play, or even
+download if you're going somewhere you won't have Wi-Fi.
+
+    </p>
+<a class="Ryman Westerling" href="#">Read More</a>
+
+<img src="video.png" alt="">
+  </div>
+</section>
+
+
+<section class="Arbor">
+  <div class="Maersk">
+    <h3>
+A world of entertainment. Available wherever you are.
+    </h3>
+    <p class="lead">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Excepteur sint occaecat cupidatat non proident,
+  sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <p></p>
+    <p></p>
+  </div>
+</section>
+
+<section id="Bane" class="audio">
+  <div class="Maersk">
+    <div class="Tywin">
+<img src="cards.png" alt="">
+
+    <div>
+      <h2>
+Gift Cards
+      </h2>
+      <p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </p>
+
+      <p>
+Already have an Orange MyTunes Music Gift Card?
+      </p>
+      <hr>
+    <a class="jo" href="#">Redeem</a>
+</div>
+    </div>
+
+  </div>
+</section>
+
+
+<footer>
+<div class="Maersk">
+  <div class="Jon-Snow">
+    <ul>
+      <h5><li>Shop And Learn</li></h5>
+      <p></p>
+      <hr>
+
+      <li>
+        <a href="#">Music</a>
+      </li>
+
+      <li>
+        <a href="#">Movies</a>
+      </li>
+
+      <li>
+        <a href="#">Shows</a>
+      </li>
+
+      <li>
+        <a href="#">Apps</a>
+      </li>
+
+      <li>
+        <a href="#">Gift Cards</a>
+      </li>
+    </ul>
+
+    <ul>
+      <h5><li>Orange Store</li></h5>
+      <hr>
+      <p></p>
+      <li>
+        <a href="#">Find A Store</a>
+      </li>
+      <li>
+        <a href="#">Today at Orange</a>
+      </li>
+      <li>
+        <a href="#">Orange Camp</a>
+      </li>
+      <li>
+        <a href="#">Financing</a>
+      </li>
+      <li>
+        <a href="#">Order Status</a>
+      </li>
+    </ul>
+
+    <ul>
+      <h5><li>Education & Business</li></h5>
+      <hr>
+      <p></p>
+
+      <li>
+        <a href="#">Orange & Education</a>
+      </li>
+
+      <li>
+        <a href="#">Shop for College</a>
+      </li>
+
+      <li>
+        <a href="#">Orange & Business</a>
+      </li>
+
+      <li>
+        <a href="#">Shop for Business</a>
+      </li>
+
+      <li>
+        <a href="#">Jobs</a>
+      </li>
+    </ul>
+
+    <ul>
+      <h5><li>About Orange</li></h5>
+      <hr>
+      <p></p>
+
+      <li>
+        <a href="#">Newsroom</a>
+      </li>
+
+      <li>
+        <a href="#">Orange Leadership</a>
+      </li>
+
+      <li>
+        <a href="#">Investors</a>
+      </li>
+
+      <li>
+        <a href="#">Events</a>
+      </li>
+
+      <li>
+        <a href="#">Contact Orange</a>
+      </li>
+    </ul>
+
+  </div>
+
+<p></p>
+<p></p>
+
+</div>
+
+<div class="footer-bottom">
+  Copyright 2019 Orange MyTunes
+</div>
+
+</footer>
+
+  </body>
+</html>

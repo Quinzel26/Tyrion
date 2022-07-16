@@ -1,0 +1,224 @@
+/* aegon.css */
+
+
+body {
+  background-color: #252529;
+  line-height: 1.6;
+  font-family:'PT Sans', sans-serif;
+  margin: 0;
+  color: #fff;
+
+}
+
+.Euron {
+text-align: center;
+  max-width: 1180px;
+  font-size: 150%;
+  margin-left: 15px;
+}
+
+
+
+#Balon .Euron {
+  margin-top: 25vh;
+}
+
+#Balon {
+  background-image: url("guitar.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow-y: hidden;
+  padding-left: 2px;
+  float: left;
+}
+
+#Balon a {
+  color: white;
+}
+
+
+.GreyJoy {
+  width: 100%;
+  background-color: #333;
+  position: fixed;
+  height: 40px;
+  width: 100;
+  list-style: none;
+}
+
+
+#renly {
+  padding-left: 3rem;
+  text-decoration: none;
+}
+
+#gendry {
+  padding-left: 3rem;
+}
+
+#maven {
+  padding-left: 3rem;
+}
+
+#Egret {
+  padding-left: 3rem;
+}
+
+#Mance {
+  padding-left: 3rem;
+}
+
+.Asha {
+  text-decoration: none;
+  list-style: none;
+  display: inline-flex;
+  line-height: 1.6;
+  float: left;
+
+}
+
+.section {
+  padding: 2 rem 0;
+}
+
+.Frey {
+  max-width: 1180px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.Lyonhead {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.Alps h3 {
+  font-size: 2rem;
+}
+
+.Bod {
+  padding: 1rem;
+  display: inline-block;
+  background: #d3071b;
+  color: #fff;
+}
+
+.audio {
+  background: #f4f4f4;
+  color: #333;
+}
+
+.Ryan {
+  background: #f4f4f4;
+
+
+}
+
+.Maersk {
+  text-align: center;
+  max-width: 1180px;
+  margin-left: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: auto;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+
+}
+
+.Maersk h3 {
+  font-size: 2rem;
+   }
+
+.lead {
+  font-size: 1.3rem;
+}
+
+.Ryman {
+  background: #103063;
+  padding: 1rem;
+  display: inline-block;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+ .Arbor {
+  background-image: url(Mazda.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%
+  position:relative;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+.Arbor img {
+  width: 100%;
+}
+
+img {
+  width:100%;
+}
+
+
+.Tywin {
+  display: grid;
+  grid-gap: 20px;
+  float: left;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 20px;
+  column-gap: 20px;
+  background: #f4f4f4;
+  color: #333;
+  text-align: left;
+}
+
+.jo {
+  color: #103063;
+}
+
+
+.Jon-Snow {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 2rem;
+  font-size: 14px;
+  background-size: cover;
+  text-align: left;
+
+}
+
+.Jon-Snow li {
+  list-style-type: none;
+  color: #f4f4f4;
+}
+
+.Jon-Snow a {
+  color: #f4f4f4;
+}
+
+.Jon-Snow a:hover {color: #d3071b;}
+.Jon-Snow a {transition: color 1s ease-in;}
+
+
+
+
+.footer-bottom {
+  padding: 1rem;
+  text-align: center;
+  background-size: cover;
+  background: #333;
+}
